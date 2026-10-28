@@ -1,0 +1,13 @@
+Cuprum-Regular.ttf
+Name record 0:
+Copyright 2010 The Cuprum Project Authors (lemonad@jovanny.ru), with Reserved Font Name "Cuprum".
+
+Name record 14:
+http://scripts.sil.org/OFL
+
+Cuprum-Bold.ttf
+Name record 0:
+Copyright 2010 The Cuprum Project Authors (lemonad@jovanny.ru), with Reserved Font Name "Cuprum".
+
+Name record 14:
+http://scripts.sil.org/OFL

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Neutron Linux
+Comment=Native controller for the Behringer Neutron synthesizer
+Exec=neutron-linux
+Icon=neutron-linux
+Terminal=false
+Categories=AudioVideo;Audio;Midi;
+StartupNotify=true
